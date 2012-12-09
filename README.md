@@ -1,4 +1,6 @@
-bbscms
+BBSCMS
 ======
 
-bbscms
+open source php cms
+
+http://www.bbscms.net
